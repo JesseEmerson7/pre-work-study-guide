@@ -1,5 +1,7 @@
 # Prework Study Guide Webpage
 
+https://jesseemerson7.github.io/pre-work-study-guide/
+
 ## Description
 
 This Study Guide was created for the UCF Coding Bootcamp Prework. It was designed to help with note taking and information retention while learning about HTML, CSS, Git, and JavaScript.
